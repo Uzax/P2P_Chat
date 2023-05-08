@@ -1,2 +1,2 @@
 # P2P_Chat
-SWE311 Project , P2P chat system with encryption and decryption messages, MP4 , Files 
+The SWE311 project involves creating a peer-to-peer chat system that incorporates advanced security features such as message encryption and decryption. This system will be designed to facilitate the secure transfer of MP4 files and other types of files between users. 
